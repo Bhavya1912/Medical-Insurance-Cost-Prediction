@@ -34,3 +34,4 @@ The trained model can predict the cost of medical insurance for new beneficiarie
 #Acknowledgments
 The dataset used in this project was obtained from Kaggle.
 This project was inspired by the online course "Machine Learning A-Z™: Hands-On Python & R In Data Science" on Udemy.
+
