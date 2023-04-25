@@ -13,7 +13,6 @@ smoker: smoking status of the primary beneficiary (yes/no)
 region: the beneficiary's residential area in the US (northeast, southeast, southwest, northwest)
 charges: medical insurance cost billed by the insurance company
 
-
 # Requirements
 Python 3.x
 Pandas
